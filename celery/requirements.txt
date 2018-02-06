@@ -1,0 +1,4 @@
+celery
+google-cloud-storage
+pillow-simd
+redis

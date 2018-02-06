@@ -1,0 +1,24 @@
+{
+  "resizes": [
+    {
+      "type": "x",
+      "preffix": "1200",
+      "size": 1200
+    },
+    {     
+      "type": "x",
+      "preffix": "1024",
+      "size": 1024
+    },
+    {     
+      "type": "x",
+      "preffix": "800",
+      "size": 800
+    },
+    {     
+      "type": "x",
+      "preffix": "300",
+      "size": 300
+    }
+  ]
+}
